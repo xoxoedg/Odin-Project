@@ -44,3 +44,17 @@ div.text {
     font-weight: 100;
 }
 
+.test {
+    display: inline;
+    border: red 5px solid;
+    height: 1000px;
+    width: 100px;
+}
+
+.try {
+    margin: 50px;
+    display: block;
+    border: red 5px solid;
+    height: 50px;
+    width: 50px;
+}
